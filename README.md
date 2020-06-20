@@ -1,0 +1,2 @@
+# C-training
+Học C
