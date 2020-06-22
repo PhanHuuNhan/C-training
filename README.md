@@ -1,4 +1,5 @@
 # Nộp bài tập buổi 3
+
 ## Bài 1: Tạo 1 danh sách liên kết các node có n phần tử. Thông tin mỗi node là 1 số nguyên. In ra danh sách node đó theo chiều thuận và nghịch.
 INPUT:
 Dòng đầu tiên: số nguyên dương n
